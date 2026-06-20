@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=P.R.Adithya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Developer+%7C+Python+%26+Full-Stack+Enthusiast&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=P.R.Adithya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%E2%80%94%20Python%20%2B%20Full-Stack&descAlignY=62&descSize=16)
 
 <a href="https://www.linkedin.com/in/adhithya2003/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pradithya.13oct@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
